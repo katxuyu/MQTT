@@ -1,0 +1,20 @@
+
+2023-01-12 18:50:00.184101 - TIMEOUT RETRY 1
+2023-01-12 18:50:31.128031 - TIMEOUT RETRY 2
+2023-01-12 18:51:02.199478 - TIMEOUT RETRY 3
+2023-01-12 18:51:33.083630 - TIMEOUT RETRY 4
+2023-01-12 18:52:04.087903 - TIMEOUT RETRY 5
+2023-01-12 18:52:34.976040 - HTTPSConnectionPool(host='eo50opvnqmmfbni.m.pipedream.net', port=443): Read timed out. (read timeout=30)
+2023-01-12 18:56:18.930039 - TIMEOUT RETRY 1
+2023-01-12 18:56:50.040195 - TIMEOUT RETRY 2
+2023-01-12 18:57:20.995814 - TIMEOUT RETRY 3
+2023-01-12 18:57:51.970003 - TIMEOUT RETRY 4
+2023-01-12 18:58:22.899618 - TIMEOUT RETRY 5
+2023-01-12 18:58:53.897689 - HTTPSConnectionPool(host='eo50opvnqmmfbni.m.pipedream.net', port=443): Read timed out. (read timeout=30)
+2023-01-12 19:05:45.016265 - TIMEOUT RETRY 1
+2023-01-12 19:06:15.968066 - TIMEOUT RETRY 2
+2023-01-12 19:06:47.107440 - HTTPSConnectionPool(host='eo50opvnqmmfbni.m.pipedream.net', port=443): Read timed out. (read timeout=30)
+2023-01-12 19:07:18.074340 - HTTPSConnectionPool(host='eo50opvnqmmfbni.m.pipedream.net', port=443): Read timed out. (read timeout=30)
+2023-01-12 19:09:00.060203 - TIMEOUT RETRY 1
+2023-01-12 19:09:31.035555 - TIMEOUT RETRY 2
+2023-01-12 19:10:01.983975 - HTTPSConnectionPool(host='eo50opvnqmmfbni.m.pipedream.net', port=443): Read timed out. (read timeout=30)

@@ -1,0 +1,65 @@
+
+2023-01-12 18:49:04.741426 - Initializing clients bridge-c1
+2023-01-12 18:49:04.879193 - Initializing clients bridge-c2
+2023-01-12 18:49:05.017416 - Connecting to broker au1.cloud.thethings.industries
+2023-01-12 18:49:05.352533 - Connecting to broker 593da89d06f742e49f4cd22b3ccaacb1.s1.eu.hivemq.cloud
+2023-01-12 18:49:05.884216 - Subscribing to # - BROKER: au1.cloud.thethings.industries
+2023-01-12 18:49:06.024330 - In on subscribe callback result 1
+
+2023-01-12 18:49:06.226262 - START: Initializing
+2023-01-12 18:49:29.175965 - Message received from  au1.cloud.thethings.industries
+2023-01-12 18:49:29.176073 - Sending payload to au1.cloud.thethings.industries 0
+2023-01-12 18:50:00.184215 - Sending payload to au1.cloud.thethings.industries 1
+2023-01-12 18:50:31.128157 - Sending payload to au1.cloud.thethings.industries 2
+2023-01-12 18:51:02.199614 - Sending payload to au1.cloud.thethings.industries 3
+2023-01-12 18:51:33.083753 - Sending payload to au1.cloud.thethings.industries 4
+2023-01-12 18:52:04.088031 - Sending payload to au1.cloud.thethings.industries 5
+2023-01-12 18:55:22.114433 - Initializing clients bridge-c1
+2023-01-12 18:55:22.250248 - Initializing clients bridge-c2
+2023-01-12 18:55:22.393382 - Connecting to broker au1.cloud.thethings.industries
+2023-01-12 18:55:22.683694 - Connecting to broker 593da89d06f742e49f4cd22b3ccaacb1.s1.eu.hivemq.cloud
+2023-01-12 18:55:23.207960 - Subscribing to # - BROKER: au1.cloud.thethings.industries
+
+2023-01-12 18:55:23.313274 - START: Initializing
+2023-01-12 18:55:23.341178 - In on subscribe callback result 1
+2023-01-12 18:55:47.847710 - Message received from  au1.cloud.thethings.industries
+2023-01-12 18:55:47.847838 - Sending payload to au1.cloud.thethings.industries 0
+2023-01-12 18:56:18.930165 - Sending payload to au1.cloud.thethings.industries 1
+2023-01-12 18:56:50.040313 - Sending payload to au1.cloud.thethings.industries 2
+2023-01-12 18:57:20.995938 - Sending payload to au1.cloud.thethings.industries 3
+2023-01-12 18:57:51.970133 - Sending payload to au1.cloud.thethings.industries 4
+2023-01-12 18:58:22.899798 - Sending payload to au1.cloud.thethings.industries 5
+2023-01-12 19:04:25.096070 - Initializing clients bridge-c1
+2023-01-12 19:04:25.232992 - Initializing clients bridge-c2
+2023-01-12 19:04:25.378819 - Connecting to broker au1.cloud.thethings.industries
+2023-01-12 19:04:25.723807 - Connecting to broker 593da89d06f742e49f4cd22b3ccaacb1.s1.eu.hivemq.cloud
+2023-01-12 19:04:26.250158 - Subscribing to # - BROKER: au1.cloud.thethings.industries
+2023-01-12 19:04:26.385874 - In on subscribe callback result 1
+
+2023-01-12 19:04:26.507170 - START: Initializing
+2023-01-12 19:04:47.641962 - Initializing clients bridge-c1
+2023-01-12 19:04:47.778553 - Initializing clients bridge-c2
+2023-01-12 19:04:47.915193 - Connecting to broker au1.cloud.thethings.industries
+2023-01-12 19:04:48.202473 - Connecting to broker 593da89d06f742e49f4cd22b3ccaacb1.s1.eu.hivemq.cloud
+2023-01-12 19:04:48.728962 - Subscribing to # - BROKER: au1.cloud.thethings.industries
+
+2023-01-12 19:04:48.841323 - START: Initializing
+2023-01-12 19:04:48.869894 - In on subscribe callback result 1
+2023-01-12 19:05:14.036069 - Message received from  au1.cloud.thethings.industries
+2023-01-12 19:05:14.036179 - Sending payload to au1.cloud.thethings.industries 0
+2023-01-12 19:05:45.016375 - Sending payload to au1.cloud.thethings.industries 1
+2023-01-12 19:06:15.968181 - Sending payload to au1.cloud.thethings.industries 2
+2023-01-12 19:06:47.107802 - Message received from  au1.cloud.thethings.industries
+2023-01-12 19:06:47.107878 - Sending payload to au1.cloud.thethings.industries 2
+2023-01-12 19:08:23.666837 - Initializing clients bridge-c1
+2023-01-12 19:08:23.803485 - Initializing clients bridge-c2
+2023-01-12 19:08:23.940226 - Connecting to broker au1.cloud.thethings.industries
+2023-01-12 19:08:24.248712 - Connecting to broker 593da89d06f742e49f4cd22b3ccaacb1.s1.eu.hivemq.cloud
+2023-01-12 19:08:24.773797 - Subscribing to # - BROKER: au1.cloud.thethings.industries
+2023-01-12 19:08:24.912033 - In on subscribe callback result 1
+
+2023-01-12 19:08:24.948299 - START: Initializing
+2023-01-12 19:08:29.016825 - Message received from  au1.cloud.thethings.industries
+2023-01-12 19:08:29.016927 - Sending payload to au1.cloud.thethings.industries 0
+2023-01-12 19:09:00.060332 - Sending payload to au1.cloud.thethings.industries 1
+2023-01-12 19:09:31.035679 - Sending payload to au1.cloud.thethings.industries 2
